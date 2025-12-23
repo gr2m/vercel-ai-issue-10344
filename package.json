@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "dependencies": {
+    "gateway-v2": "npm:@ai-sdk/gateway@2.0.23",
+    "google-v3.0.1": "npm:@ai-sdk/google@3.0.1",
+    "google-v3.0.0-beta.89": "npm:@ai-sdk/google@3.0.0-beta.89",
+    "google-v2.0.51": "npm:@ai-sdk/google@2.0.51",
+    "ai-v6": "npm:ai@6.0.3",
+    "ai-v5": "npm:ai@5.0.116",
+    "dotenv": "^17.2.3",
+    "zod": "^4.2.1"
+  }
+}
